@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "InfyOm\\AdminLTETemplates\\": "src/"
+            "aayaresko\\AdminLTETemplates\\": "src/"
         }
     }
 }

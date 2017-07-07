@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\AdminLTETemplates;
+namespace aayaresko\AdminLTETemplates;
 
 use Illuminate\Support\ServiceProvider;
 
